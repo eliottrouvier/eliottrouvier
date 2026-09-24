@@ -18,7 +18,7 @@ I build projects at the intersection of machine learning, computer vision, and a
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/eliottrouvier/) · [GitHub](https://github.com/eliottrouvier)
+[LinkedIn](https://www.linkedin.com/in/eliottrouvier/) · [GitHub](https://github.com/eliottrouvier) · [Email](mailto:eliott.rouvier@gmail.com)
 
 ## Interesting Links
 
