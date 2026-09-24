@@ -9,4 +9,4 @@ Student with a keen interest in AI, Machine Learning, and Computer Vision.
 
 ### 📌 Interesting Links
 
-- [TensorFlow Playground](https://playground.tensorflow.org/) — Interactive neural network visualization in the browser.
+- [TensorFlow Playground](https://playground.tensorflow.org/) 
