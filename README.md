@@ -11,9 +11,6 @@
 - **LLM RAG**
 - **LLM (proof verifier) Project**
 
-## Stack
-
-`Python` `PyTorch` `OpenCV` `NumPy` `Scikit-Learn` `uv` `Git`
 
 ## Contact
 
