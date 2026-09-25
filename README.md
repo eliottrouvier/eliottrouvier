@@ -7,9 +7,9 @@
 
 - **[realtime-vision-segmentation](https://github.com/eliottrouvier/realtime-vision-segmentation)** — Real-time video & webcam instance segmentation and desktop GUI. 
 - **[stanford-cs231n](https://github.com/eliottrouvier/stanford-cs231n)** — Experiments and from-scratch implementations for deep visual recognition. 
-- ** Computer Vision Project**
-- ** LLM RAG**
-- ** LLM (proof verifier) Project** 
+- ** Computer Vision Project
+- ** LLM RAG
+- ** LLM (proof verifier) Project
 
 ## Stack
 
