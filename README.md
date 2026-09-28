@@ -14,7 +14,7 @@
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/eliottrouvier/) · [GitHub](https://github.com/eliottrouvier) · [Email](mailto:eliott.rouvier@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/eliottrouvier/) · [Email](mailto:eliott.rouvier@gmail.com)
 
 ## Interesting Links
 
