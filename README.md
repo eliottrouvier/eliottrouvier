@@ -15,7 +15,12 @@
 ### Algorithms & Math
 - **[alphabet-rewrite-2012](https://github.com/eliottrouvier/alphabet-rewrite-2012)** `Python • Discrete Math • Matplotlib` — Deterministic phonetic string rewriting system (L-system) formalizing recursive letter expansions and sequence growth.
 
+### Other Projects & Research
+- **Optical Interferometry & Astrophysics**
+- **Applied LLM & RAG Systems**
+
 ---
+
 
 ## Contact
 
