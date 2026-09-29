@@ -22,12 +22,6 @@
 - **Optical Interferometry & Astrophysics**
 - **Applied LLM & RAG Systems**
 
----
-
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/eliottrouvier/) · [Email](mailto:eliott.rouvier@gmail.com)
 
 ---
 
