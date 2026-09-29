@@ -20,3 +20,5 @@
 ## Interesting Links
 
 - [TensorFlow Playground](https://playground.tensorflow.org/)
+- https://github.com/pytorch/vision
+- https://github.com/huggingface/pytorch-image-models
