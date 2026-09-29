@@ -2,20 +2,26 @@
 
 **CentraleSupélec student — AI/ML & Computer Vision**
 
+---
 
 ## Projects
 
-- **[vision-3d](https://github.com/eliottrouvier/vision-3d)** — 3D Human Mesh Recovery & real-time anatomical avatar studio.
-- **[realtime-vision-segmentation](https://github.com/eliottrouvier/realtime-vision-segmentation)** — Real-time video & webcam instance segmentation and desktop GUI.
-- **[stanford-cs231n](https://github.com/eliottrouvier/stanford-cs231n)** — Experiments and from-scratch implementations for deep visual recognition.
-- **Computer Vision Project**
-- **LLM RAG**
-- **LLM (proof verifier) Project**
+### Computer Vision & 3D
+- **[car-vision](https://github.com/eliottrouvier/car-vision)** `Python • PyTorch • YOLOPv2 • YOLO11 • PySide6` — Real-time autonomous panoptic perception cockpit with windshield AR HUD and Tesla FSD 3D Bird's-Eye View.
+- **[vision-3d](https://github.com/eliottrouvier/vision-3d)** `Python • MediaPipe • PyOpenGL • 1€ Filter • PySide6` — Real-time 3D Human Mesh Recovery and articulated avatar studio with jitter-free filtering.
+- **[realtime-vision-segmentation](https://github.com/eliottrouvier/realtime-vision-segmentation)** `Python • PyTorch • YOLO11 • YOLO-World • MediaPipe` — Multi-mode computer vision suite featuring instance segmentation, open-vocabulary detection, and 75+ point pose tracking.
+- **[stanford-cs231n](https://github.com/eliottrouvier/stanford-cs231n)** `Python • NumPy • PyTorch` — Deep visual recognition architectures, backpropagation algorithms, and neural networks from Stanford CS231n.
 
+### Algorithms & Math
+- **[alphabet-rewrite-2012](https://github.com/eliottrouvier/alphabet-rewrite-2012)** `Python • Discrete Math • Matplotlib` — Deterministic phonetic string rewriting system (L-system) formalizing recursive letter expansions and sequence growth.
+
+---
 
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/eliottrouvier/) · [Email](mailto:eliott.rouvier@gmail.com)
+
+---
 
 ## Interesting Links
 
