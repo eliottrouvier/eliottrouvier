@@ -31,3 +31,4 @@
 - https://github.com/facebookresearch/detectron2
 
 - http://www.cvpapers.com/datasets.html
+- https://huggingface.co/docs/datasets/en/index
