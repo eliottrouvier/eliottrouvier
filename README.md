@@ -28,6 +28,6 @@
 ## Interesting Links
 
 - [TensorFlow Playground](https://playground.tensorflow.org/)
-- https://github.com/pytorch/vision
-- https://github.com/huggingface/pytorch-image-models
-- https://github.com/facebookresearch/detectron2 
+- https://github.com/facebookresearch/detectron2
+
+- http://www.cvpapers.com/datasets.html
