@@ -30,5 +30,6 @@
 - [TensorFlow Playground](https://playground.tensorflow.org/)
 - https://github.com/facebookresearch/detectron2
 
+data sets
 - http://www.cvpapers.com/datasets.html
 - https://huggingface.co/docs/datasets/en/index
