@@ -27,8 +27,9 @@
 
 ## Interesting Links
 
-- [TensorFlow Playground](https://playground.tensorflow.org/)
+- https://playground.tensorflow.org/
 - https://github.com/facebookresearch/detectron2
+- https://huggingface.co/facebook/dinov3-vits16-pretrain-lvd1689m
 
 ## Data sets 
 
