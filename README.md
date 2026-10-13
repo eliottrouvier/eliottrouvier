@@ -7,31 +7,37 @@
 ## Projects
 
 ### Computer Vision & 3D
-- **[car-vision](https://github.com/eliottrouvier/car-vision)** `Python • PyTorch • YOLOPv2 • YOLO11 • PySide6` — Real-time autonomous panoptic perception cockpit with windshield AR HUD and Tesla FSD 3D Bird's-Eye View.
-- **[vision-3d](https://github.com/eliottrouvier/vision-3d)** `Python • MediaPipe • PyOpenGL • 1€ Filter • PySide6` — Real-time 3D Human Mesh Recovery and articulated avatar studio with jitter-free filtering.
-- **[realtime-vision-segmentation](https://github.com/eliottrouvier/realtime-vision-segmentation)** `Python • PyTorch • YOLO11 • YOLO-World • MediaPipe` — Multi-mode computer vision suite featuring instance segmentation, open-vocabulary detection, and 75+ point pose tracking.
-- **[stanford-cs231n](https://github.com/eliottrouvier/stanford-cs231n)** `Python • NumPy • PyTorch` — Deep visual recognition architectures, backpropagation algorithms, and neural networks from Stanford CS231n.
+- **[ViT-jax](https://github.com/eliottrouvier/ViT-jax)** `PyTorch • JAX / Flax` — ViT-B/16, self-supervised learning (MAE, DINO), and JAX acceleration.
+- **[car-vision](https://github.com/eliottrouvier/car-vision)** `Python • PyTorch • YOLO` — Real-time panoptic perception cockpit with windshield AR HUD and 3D Bird's-Eye View.
+- **[vision-3d](https://github.com/eliottrouvier/vision-3d)** `Python • MediaPipe • PyOpenGL` — Real-time 3D Human Mesh Recovery and articulated avatar studio with 1€ filtering.
+- **[realtime-vision-segmentation](https://github.com/eliottrouvier/realtime-vision-segmentation)** `Python • PyTorch • YOLO` — Real-time instance segmentation, open-vocabulary detection, and 75+ point pose tracking.
+- **[stanford-cs231n](https://github.com/eliottrouvier/stanford-cs231n)** `Python • NumPy • PyTorch` — Deep visual recognition architectures and optimization algorithms from Stanford CS231n.
 
 ### AI & Data Visualization
-- **[jobs-france-karpathy](https://github.com/eliottrouvier/jobs-france-karpathy)** `Python • Vanilla JS • Canvas` — Copie du site de karpathy
+- **[jobs-france-karpathy](https://github.com/eliottrouvier/jobs-france-karpathy)** `Vanilla JS • Canvas` — AI exposure analysis and interactive treemap of 1,100+ French occupations inspired by Andrej Karpathy's research.
 
 ### Algorithms & Math
-- **[alphabet-rewrite-2012](https://github.com/eliottrouvier/alphabet-rewrite-2012)** `Python • Discrete Math • Matplotlib` — Deterministic phonetic string rewriting system (L-system) formalizing recursive letter expansions and sequence growth.
+- **[alphabet-rewrite-2012](https://github.com/eliottrouvier/alphabet-rewrite-2012)** `Python • Discrete Math` — Deterministic string rewriting system (L-system) modeling recursive phonetic expansions.
 
 ### Other Projects & Research
 - **Optical Interferometry & Astrophysics**
 - **Applied LLM & RAG Systems**
 
+---
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/eliottrouvier/) · [Email](mailto:eliott.rouvier@gmail.com)
 
 ---
 
 ## Interesting Links
 
-- https://playground.tensorflow.org/
-- https://github.com/facebookresearch/detectron2
-- https://huggingface.co/facebook/dinov3-vits16-pretrain-lvd1689m
+- [TensorFlow Playground](https://playground.tensorflow.org/)
+- [Detectron2](https://github.com/facebookresearch/detectron2)
+- [DINOv3 ViT-S/16](https://huggingface.co/facebook/dinov3-vits16-pretrain-lvd1689m)
 
-## Data sets 
+## Datasets
 
-- http://www.cvpapers.com/datasets.html
-- https://huggingface.co/docs/datasets/en/index
+- [CV Papers Datasets](http://www.cvpapers.com/datasets.html)
+- [Hugging Face Datasets](https://huggingface.co/docs/datasets/en/index)
