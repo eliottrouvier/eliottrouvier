@@ -8,6 +8,12 @@
 
 ### Computer Vision & 3D
 - **[surf-camera-vision](https://github.com/eliottrouvier/surf-camera-vision)** `Python • PyTorch • YOLOv8 • OpenCV` — Autonomous virtual PTZ cameraman tracking surfers with instance segmentation, kinematic take-off detection, and cinematic auto-framing.
+
+  <p align="center">
+    <a href="https://github.com/eliottrouvier/surf-camera-vision">
+      <img src="https://raw.githubusercontent.com/eliottrouvier/surf-camera-vision/main/assets/surf_vision_ai_real_demo.gif" width="340" alt="Surf Camera Vision Demo" />
+    </a>
+  </p>
 - **[ViT-jax](https://github.com/eliottrouvier/ViT-jax)** `PyTorch • JAX / Flax` — ViT-B/16, self-supervised learning (MAE, DINO), and JAX acceleration.
 - **[car-vision](https://github.com/eliottrouvier/car-vision)** `Python • PyTorch • YOLO` — Real-time panoptic perception cockpit with windshield AR HUD and 3D Bird's-Eye View.
 - **[vision-3d](https://github.com/eliottrouvier/vision-3d)** `Python • MediaPipe • PyOpenGL` — Real-time 3D Human Mesh Recovery and articulated avatar studio with 1€ filtering.
