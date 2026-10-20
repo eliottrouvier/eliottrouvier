@@ -7,7 +7,7 @@
 ## Projects
 
 ### Computer Vision & 3D
-- **[surf-camera-vision](https://github.com/eliottrouvier/surf-camera-vision)** `Python • PyTorch • YOLOv8 • OpenCV` — Autonomous virtual PTZ cameraman tracking surfers with instance segmentation, kinematic take-off detection, and cinematic auto-framing.
+- **[surf-camera-vision](https://github.com/eliottrouvier/surf-camera-vision)** `Python • PyTorch • YOLOv8 • OpenCV` — Autonomous virtual PTZ (Pan Tilt Zoomm) cameraman tracking surfers with instance segmentation, kinematic take-off detection, and cinematic auto-framing.
 
   <p align="center">
     <a href="https://github.com/eliottrouvier/surf-camera-vision">
