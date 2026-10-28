@@ -20,9 +20,6 @@
 - **[realtime-vision-segmentation](https://github.com/eliottrouvier/realtime-vision-segmentation)** `Python • PyTorch • YOLO` — Real-time instance segmentation, open-vocabulary detection, and 75+ point pose tracking.
 - **[stanford-cs231n](https://github.com/eliottrouvier/stanford-cs231n)** `Python • NumPy • PyTorch` — Deep visual recognition architectures and optimization algorithms from Stanford CS231n.
 
-### AI & Data Visualization
-- **[jobs-france-karpathy](https://github.com/eliottrouvier/jobs-france-karpathy)** `Vanilla JS • Canvas` — AI exposure analysis and interactive treemap of 1,100+ French occupations inspired by Andrej Karpathy's research.
-
 ### Algorithms & Math
 - **[alphabet-rewrite-2012](https://github.com/eliottrouvier/alphabet-rewrite-2012)** `Python • Discrete Math` — Deterministic string rewriting system (L-system) modeling recursive phonetic expansions.
 
