@@ -20,13 +20,9 @@
 - **[realtime-vision-segmentation](https://github.com/eliottrouvier/realtime-vision-segmentation)** `Python • PyTorch • YOLO` — Real-time instance segmentation, open-vocabulary detection, and 75+ point pose tracking.
 - **[stanford-cs231n](https://github.com/eliottrouvier/stanford-cs231n)** `Python • NumPy • PyTorch` — Deep visual recognition architectures and optimization algorithms from Stanford CS231n.
 
-### Algorithms & Math
-- **[alphabet-rewrite-2012](https://github.com/eliottrouvier/alphabet-rewrite-2012)** `Python • Discrete Math` — Deterministic string rewriting system (L-system) modeling recursive phonetic expansions.
-
 ### Other Projects & Research
 - **Optical Interferometry & Astrophysics**
 - **Applied LLM & RAG Systems**
-
 
 ## Interesting Links
 
