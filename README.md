@@ -32,5 +32,4 @@
 
 ## Datasets
 
-- [CV Papers Datasets](http://www.cvpapers.com/datasets.html)
 - [Hugging Face Datasets](https://huggingface.co/docs/datasets/en/index)
