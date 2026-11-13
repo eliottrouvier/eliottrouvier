@@ -1,6 +1,6 @@
 # Eliott Rouvier
 
-**CentraleSupélec student — AI/ML & Computer Vision**
+**CentraleSupélec student — AI/ML & Computer Vision** :
 **[eliottrouvier.github.io](https://eliottrouvier.github.io)**
 
 <p align="center">
