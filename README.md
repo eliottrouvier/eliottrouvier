@@ -2,7 +2,7 @@
 
 **CentraleSupélec student — AI/ML & Computer Vision** :
 
-personnal website: **[eliottrouvier.github.io](https://eliottrouvier.github.io)**
+
 
 <p align="center">
   <a href="https://eliottrouvier.github.io">
@@ -10,4 +10,4 @@ personnal website: **[eliottrouvier.github.io](https://eliottrouvier.github.io)*
   </a>
 </p>
 
-
+personnal website: **[eliottrouvier.github.io](https://eliottrouvier.github.io)**
